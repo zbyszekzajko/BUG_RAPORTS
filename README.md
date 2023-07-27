@@ -3,20 +3,45 @@ My exercises of bug reporting
 
 ![#TM-21  Z Z - https___www olx pl_- Komunikat o dostępności wyszukiwanych przedmiotów w języku angielskim-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4b009df6-5cc5-4f2c-93f6-176bce397472)
 ![#TM-22  ZZ - https___www frisco pl_ - Brak możliwości usunięcia, edycji ilości sztuk towaru w koszyku-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/87d69bfb-12b5-4187-af14-517ace95584f)
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/bbc7fe29-39be-4785-87a3-057035c82b63
+
 ![_#TM-2~1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/7ba0c2b5-ecd2-4824-9564-aa0e29649ec7)
 ![_#TM-2~2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/55e498d4-b86d-4dec-ae60-4267790a4d07)
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/84932a09-1575-493f-98c4-52957d1013ca
+
 ![#TM-24  Z Z - https___www pzss org pl_ - Brak odnośnika do strony logowania na konto PZSS na głównej stronie-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4e23d5a4-fbc9-4a20-808c-cd6315d86db9)
 ![#TM-24  Z Z - https___www pzss org pl_ - Brak odnośnika do strony logowania na konto PZSS na głównej stronie-2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/873ea10b-ff53-47e5-b846-ef6f36ba785f)
+
+
 ![_#TM-2~1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/02589737-9e5a-41e6-808e-2059f40b56aa)
 ![_#TM-2~2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/862ac2b4-7b86-45f6-8b7d-27c6dc78feb8)
 ![_#TM-2~3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/84bc243e-9199-439f-9d95-c6425e1743dd)
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/db50e185-4763-4f96-819f-5884948a0f48
+
+
+
 ![#TM-43  Z Z  Mobilna strona meble mobi - panel logowania w trybie portret przysłania inne elementy strony_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/54af4c56-8f68-4c4d-bfa2-cda4b0ebac64)
 ![#TM-44  Z Z  Mobilna strona smyk com - brak możliwości rejestracji oraz logowania do programu SMYK   spółka_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/6d047887-477d-41b8-932c-542f8d2882c2)
 ![#TM-44  Z Z  Mobilna strona smyk com - brak możliwości rejestracji oraz logowania do programu SMYK   spółka_-2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/7b7a82dd-1f4d-4693-9c69-a91958b475bd)
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a905e181-7efb-46d6-a65b-35f9ae78f2fd
+
+
+
 ![_#TM-4~4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/24bbc7fd-7bb1-4061-b8e6-540220276611)
 ![_#TM-4~2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/98b20436-a80d-489f-8ce6-6f2786a3a62b)
 ![_#TM-4~1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/77edad81-dbdf-4b90-b3eb-57af1ecb6239)
 ![_#TM-4~3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/fc05e701-b0a4-4bad-926e-f3b08c1b4bb9)
+
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/44623fa3-3611-4c03-90ff-ba783f4bc800
 
 
 
@@ -33,6 +58,10 @@ My exercises of bug reporting
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/2d854ff3-bab5-4db0-809c-7451234a942f)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/9d17dfff-432e-4725-a4d7-d94e3eb84236)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-5](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4a8820f3-7e76-403f-9d6a-4aab849204f9)
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/0e280c35-d272-4810-bbfe-f5e49f8cf96f
+
 
 
 
