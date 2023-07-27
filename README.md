@@ -1,6 +1,6 @@
 # JIRA BUG RAPORTS 
 
-### WEB PAGES:
+## WEB PAGES:
 
 ![#TM-21  Z Z - https___www olx pl_- Komunikat o dostępności wyszukiwanych przedmiotów w języku angielskim-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4b009df6-5cc5-4f2c-93f6-176bce397472)
 ![#TM-22  ZZ - https___www frisco pl_ - Brak możliwości usunięcia, edycji ilości sztuk towaru w koszyku-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/87d69bfb-12b5-4187-af14-517ace95584f)
@@ -24,7 +24,7 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/84932a09-1575-493f-
 
 https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/db50e185-4763-4f96-819f-5884948a0f48
 
-### MOBILE WEB PAGES:
+## MOBILE WEB PAGES:
 
 ![#TM-43  Z Z  Mobilna strona meble mobi - panel logowania w trybie portret przysłania inne elementy strony_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/54af4c56-8f68-4c4d-bfa2-cda4b0ebac64)
 ![#TM-44  Z Z  Mobilna strona smyk com - brak możliwości rejestracji oraz logowania do programu SMYK   spółka_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/6d047887-477d-41b8-932c-542f8d2882c2)
@@ -45,7 +45,7 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a905e181-7efb-46d6-
 ![#TM-46  Z Z  Mobilna strona ikea com - złe skalowanie grafiki kuchni w dziale Pomieszczenia - Kuchnia-4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/7969ee28-4643-41dc-9070-889b0b340d42)
 ![#TM-46  Z Z  Mobilna strona ikea com - złe skalowanie grafiki kuchni w dziale Pomieszczenia - Kuchnia-5](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a91b12c7-5359-4dab-96d6-a60ed3b13411)
 
-### MOBILE APP:
+## MOBILE APP:
 
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/2b6c8308-8d4e-493e-a238-787cea6b3a2f)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a7af62e7-2076-4f34-99f1-a6ab675f5cb1)
