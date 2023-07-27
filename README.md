@@ -1,5 +1,6 @@
-# BUG_RAPORTS
-My exercises of bug reporting
+# JIRA BUG_RAPORTS
+
+### WEB PAGES:
 
 ![#TM-21  Z Z - https___www olx pl_- Komunikat o dostępności wyszukiwanych przedmiotów w języku angielskim-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4b009df6-5cc5-4f2c-93f6-176bce397472)
 ![#TM-22  ZZ - https___www frisco pl_ - Brak możliwości usunięcia, edycji ilości sztuk towaru w koszyku-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/87d69bfb-12b5-4187-af14-517ace95584f)
@@ -23,7 +24,7 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/84932a09-1575-493f-
 
 https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/db50e185-4763-4f96-819f-5884948a0f48
 
-
+### MOBILE WEB PAGES:
 
 ![#TM-43  Z Z  Mobilna strona meble mobi - panel logowania w trybie portret przysłania inne elementy strony_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/54af4c56-8f68-4c4d-bfa2-cda4b0ebac64)
 ![#TM-44  Z Z  Mobilna strona smyk com - brak możliwości rejestracji oraz logowania do programu SMYK   spółka_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/6d047887-477d-41b8-932c-542f8d2882c2)
@@ -34,14 +35,7 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a905e181-7efb-46d6-
 
 
 
-![_#TM-4~4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/24bbc7fd-7bb1-4061-b8e6-540220276611)
-![_#TM-4~2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/98b20436-a80d-489f-8ce6-6f2786a3a62b)
-![_#TM-4~1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/77edad81-dbdf-4b90-b3eb-57af1ecb6239)
-![_#TM-4~3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/fc05e701-b0a4-4bad-926e-f3b08c1b4bb9)
 
-
-
-https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/44623fa3-3611-4c03-90ff-ba783f4bc800
 
 
 
@@ -51,13 +45,21 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/44623fa3-3611-4c03-
 ![#TM-46  Z Z  Mobilna strona ikea com - złe skalowanie grafiki kuchni w dziale Pomieszczenia - Kuchnia-4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/7969ee28-4643-41dc-9070-889b0b340d42)
 ![#TM-46  Z Z  Mobilna strona ikea com - złe skalowanie grafiki kuchni w dziale Pomieszczenia - Kuchnia-5](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a91b12c7-5359-4dab-96d6-a60ed3b13411)
 
-
+### MOBILE APP:
 
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/2b6c8308-8d4e-493e-a238-787cea6b3a2f)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a7af62e7-2076-4f34-99f1-a6ab675f5cb1)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/2d854ff3-bab5-4db0-809c-7451234a942f)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/9d17dfff-432e-4725-a4d7-d94e3eb84236)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-5](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4a8820f3-7e76-403f-9d6a-4aab849204f9)
+![_#TM-4~4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/24bbc7fd-7bb1-4061-b8e6-540220276611)
+![_#TM-4~2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/98b20436-a80d-489f-8ce6-6f2786a3a62b)
+![_#TM-4~1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/77edad81-dbdf-4b90-b3eb-57af1ecb6239)
+![_#TM-4~3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/fc05e701-b0a4-4bad-926e-f3b08c1b4bb9)
+
+
+
+https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/44623fa3-3611-4c03-90ff-ba783f4bc800
 
 
 https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/0e280c35-d272-4810-bbfe-f5e49f8cf96f
