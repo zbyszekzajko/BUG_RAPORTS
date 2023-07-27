@@ -51,8 +51,8 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a905e181-7efb-46d6-
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-2](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/a7af62e7-2076-4f34-99f1-a6ab675f5cb1)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-3](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/2d854ff3-bab5-4db0-809c-7451234a942f)
 ![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/9d17dfff-432e-4725-a4d7-d94e3eb84236)
-![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-5]
-(https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/4a8820f3-7e76-403f-9d6a-4aab849204f9)
+![#TM-48  Z Z  Slack aplikacja mobilna – Plik wysłany w trybie plane mode nie zostaje wysłany po odzyskaniu sieci_-5](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/5f7b646a-8cde-4516-a223-bf493d34c17d)
+
 https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/0e280c35-d272-4810-bbfe-f5e49f8cf96f
 
 ![_#TM-4~4](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/24bbc7fd-7bb1-4061-b8e6-540220276611)
