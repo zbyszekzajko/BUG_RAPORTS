@@ -66,7 +66,6 @@ https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/44623fa3-3611-4c03-
 
 
 
-![#TM-21  Z Z - https___www olx pl_- Komunikat o dostępności wyszukiwanych przedmiotów w języku angielskim-1](https://github.com/zbyszekzajko/BUG_RAPORTS/assets/117529540/0b81c3ef-3017-4ca2-81ef-a25d82a667f6)
 
 
 
